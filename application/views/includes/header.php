@@ -158,7 +158,7 @@
             if($status == STATUS_ADMIN)
             {
             ?>
-             <li class="treeview">
+<!--              <li class="treeview">
               <a href="<?php echo base_url(); ?>DaftarJenisDok">
                 <i class="fa fa-file"></i>
                 <span>Jenis Dokumen</span>
@@ -181,7 +181,7 @@
                 <i class="fa fa-files-o"></i>
                 <span>Register Legalisasi</span>
               </a>
-            </li>
+            </li> -->
 
             <li class="treeview">
               <a href="<?php echo base_url(); ?>userListing">
